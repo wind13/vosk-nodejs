@@ -23,7 +23,7 @@
     "ffmpeg-static": "^5.2.0",
     "mic": "^2.1.2",
     "ref-napi": ">=2.0.0",
-    "subtitle": "4.2.2-alpha.0",
+    "srt-parser": "^0.1.4",
     "vosk": "^0.3.39",
     "wav": "^1.0.2"
   }
